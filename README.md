@@ -1,1 +1,2 @@
-<img width="736" height="780" alt="narusasu _ credits_ @kurowomiii via twitter #naruto" src="https://github.com/user-attachments/assets/b85ccc57-ba64-401f-8333-699e2607ab29" />
+<img width="587" height="622" alt="sasnryuriuncropped (1)" src="https://github.com/user-attachments/assets/c32c10fd-960c-4e41-8417-2bbcb00302ae" />
+
