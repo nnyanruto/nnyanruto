@@ -4,4 +4,4 @@
 
 ${\color{#e0b577} from \space Cathyyy \space}$
 
-${color{#b96e94} from \space Cathyyy \space @obsessedgojo \space ^_^!!}$
+${color{#b96e94} from \space Cathyyy \space @obsessedgojo}$
