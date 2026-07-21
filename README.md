@@ -3,4 +3,4 @@
 <img width="300" height="300" alt="kirkbakfromcathy" src="https://github.com/user-attachments/assets/b770be3f-babf-43c7-b18f-15579dc65a69" />
 
 ${\color{#e0b577} from \space Cathyyy}$
-${\color{#e0b577} links \space @obsessedgojo
+${\color{#e0b577} links \space (https://github.com/obsessedgojo)
