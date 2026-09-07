@@ -14,3 +14,5 @@ ${\color{#e0b577}}$ [pt-fashion](https://github.com/pt-fashion
 )
 ${\color{#e0b577}}$ [pony achievements (ty Jackie)](https://github.com/ponychievements
 )
+${\color{#e0b577}}$ [pt-heavyfictkin (ty Jackie)](https://github.com/pt-heavyfictkin
+)
