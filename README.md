@@ -1,6 +1,7 @@
 <div align="center">
-  
-<img width="500" height="500" alt="ihave2sidesgaaranaru" src="https://github.com/user-attachments/assets/5cc0b3c3-0acb-4fa1-8c5b-2fd919142fdf" />
+
+<img width="1166" height="926" alt="image" src="https://github.com/user-attachments/assets/4fca6488-0964-483d-9b7d-1265c9ac9a91" />
+
 
 ${\space}$
 
