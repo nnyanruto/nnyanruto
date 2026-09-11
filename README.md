@@ -5,7 +5,7 @@
 
 ${\space}$
 
-${\color{#f6cc64} Thanku \space \space}$ 
+${\color{#2596be} Thankchuu \space \space}$ 
 
 ${\color{#e0b577}}$ [title-town](https://github.com/title-town
 )
