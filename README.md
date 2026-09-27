@@ -17,3 +17,8 @@ ${\color{#e0b577}}$ [pony achievements (ty Jackie)](https://github.com/ponychiev
 )
 ${\color{#e0b577}}$ [pt-heavyfictkin](https://github.com/pt-heavyfictkin
 )
+
+${\space}$
+${\space}$
+
+https://cdn.discordapp.com/attachments/1527871548780712131/1553605619175399565/image.png?ex=6ab9db7c&is=6ab889fc&hm=bbde069292a0320fd373de74f4cf67b59470562b6885562099b99d19eda77ae4
