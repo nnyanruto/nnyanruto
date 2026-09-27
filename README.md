@@ -21,6 +21,6 @@ ${\color{#e0b577}}$ [pt-heavyfictkin](https://github.com/pt-heavyfictkin
 ${\space}$
 ${\space}$
 
-<img width="720" height="663" alt="mikepooandsurf" src="https://github.com/user-attachments/assets/e81c9c5b-0b8c-4ffa-9605-cf08455159a8" />
-<img width="1002" height="712" alt="burnram" src="https://github.com/user-attachments/assets/225d4996-6715-45b0-99cf-a884d4d36077" />
+<img width="300" height="200" alt="mikepooandsurf" src="https://github.com/user-attachments/assets/e81c9c5b-0b8c-4ffa-9605-cf08455159a8" />
+<img width="500" height="200" alt="burnram" src="https://github.com/user-attachments/assets/225d4996-6715-45b0-99cf-a884d4d36077" />
 
