@@ -21,4 +21,6 @@ ${\color{#e0b577}}$ [pt-heavyfictkin](https://github.com/pt-heavyfictkin
 ${\space}$
 ${\space}$
 
-https://cdn.discordapp.com/attachments/1527871548780712131/1553605619175399565/image.png?ex=6ab9db7c&is=6ab889fc&hm=bbde069292a0320fd373de74f4cf67b59470562b6885562099b99d19eda77ae4
+<img width="720" height="663" alt="mikepooandsurf" src="https://github.com/user-attachments/assets/e81c9c5b-0b8c-4ffa-9605-cf08455159a8" />
+<img width="1002" height="712" alt="burnram" src="https://github.com/user-attachments/assets/225d4996-6715-45b0-99cf-a884d4d36077" />
+
