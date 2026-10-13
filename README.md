@@ -3,6 +3,8 @@
 
 ${\color{#b34e70} “Hey! \space You've \space never \space kissed \space a  \space girl  \space either!  \space Actually...  \space you've  \space only  \space kissed  \space Sasuke.” }$ 
 
+${\color{#b34e70} “No! \space Don't \space make \space me \space remember \space that!” }$ 
+
 ${\space}$
 
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/4fca6488-0964-483d-9b7d-1265c9ac9a91" />
