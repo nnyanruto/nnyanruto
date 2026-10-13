@@ -1,7 +1,7 @@
 <div align="center">
 
 
-${\color{#b34e70} i \space love \space my \space narusasunaru \space fri(end)s }$ 
+${\color{#b34e70} “Hey! \space You've \space never \space kissed \space a  \space girl  \space either!  \space Actually...  \space you've  \space only  \space kissed  \space Sasuke.” }$ 
 
 ${\space}$
 
