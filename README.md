@@ -1,7 +1,7 @@
 <div align="center">
 
 
-${\color{#b34e70} i \space love \space my \space narusasunaru \space fr(end)s }$ 
+${\color{#b34e70} i \space love \space my \space narusasunaru \space fri(end)s }$ 
 
 ${\space}$
 
