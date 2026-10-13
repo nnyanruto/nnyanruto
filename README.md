@@ -1,5 +1,10 @@
 <div align="center">
 
+
+${\color{#b34e70} i \space love \space my \space narusasunaru \space fr(end)s }$ 
+
+${\space}$
+
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/4fca6488-0964-483d-9b7d-1265c9ac9a91" />
 
 
