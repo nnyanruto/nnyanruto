@@ -3,7 +3,7 @@
 
 ${\color{#b34e70} “Hey! \space You've \space never \space kissed \space a  \space girl  \space either!  \space Actually...  \space you've  \space only  \space kissed  \space Sasuke.” }$ 
 
-${\color{#b34e70} “No! \space Don't \space make \space me \space remember \space that!” }$ 
+${\color{#565a86} “No! \space Don't \space make \space me \space remember \space that!” }$ 
 
 ${\space}$
 
