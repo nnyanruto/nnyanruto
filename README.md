@@ -1,13 +1,8 @@
 <div align="center">
 
-
-${\color{#b34e70} “Hey! \space You've \space never \space kissed \space a  \space girl  \space either!  \space Actually...  \space you've  \space only  \space kissed }$ ${\color{#565a86} Sasuke }$ ${\color{#b34e70} ."}$
-
-${\color{#bd9373} “No! \space Don't \space make \space me \space remember \space that!” }$ 
-
 ${\space}$
 
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/4fca6488-0964-483d-9b7d-1265c9ac9a91" />
+<img width="1263" height="936" alt="image" src="https://github.com/user-attachments/assets/d5a7f308-204d-415a-9b76-2b33d5672845" />
 
 
 ${\space}$
