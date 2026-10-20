@@ -2,8 +2,7 @@
 
 ${\space}$
 
-<img width="1263" height="936" alt="image" src="https://github.com/user-attachments/assets/d5a7f308-204d-415a-9b76-2b33d5672845" />
-
+<img width="1024" height="778" alt="nsmwmike1" src="https://github.com/user-attachments/assets/73c78c0b-5684-4cfd-87a8-e0bc02ac81da" />
 
 ${\space}$
 
