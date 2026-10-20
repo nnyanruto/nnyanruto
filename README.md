@@ -6,7 +6,7 @@ ${\space}$
 
 ${\space}$
 
-${\color{#596984} Thankchuu \space \space}$ 
+<h1 style="color: #596984;">Thankchuu</h1>
 
 ${\color{#e0b577}}$ [title-town](https://github.com/title-town
 )
