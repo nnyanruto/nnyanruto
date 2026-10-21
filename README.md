@@ -2,7 +2,7 @@
 
 ${\space}$
 
-${\color{#e0b577}}$ [pt-friendships (main)](https://github.com/whatsahearrt
+${\color{#e0b577}}$ [main](https://github.com/whatsahearrt
 )
 
 <img width="824" height="638" alt="nsmwmike1" src="https://github.com/user-attachments/assets/73c78c0b-5684-4cfd-87a8-e0bc02ac81da" />
