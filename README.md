@@ -1,6 +1,6 @@
 <div align="center">
 
-![Stalkers](https://img.shields.io/badge/Stalkers-6767676767676767676700-596984)
+![stalkers](https://img.shields.io/badge/Stalkers-6767676767676767676700-596984)
 
 
 ${\space}$
