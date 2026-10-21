@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=eh&label=ᖳᖰ&color=3f0732&style=flat" alt="miik" />
-</p>
+![Profile Views](https://img.shields.io/badge/Profile%20Views-6767676767676767676700-blue)
 
 ${\space}$
 
