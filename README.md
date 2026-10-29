@@ -12,7 +12,9 @@ ${\color{#e0b577}}$ [main](https://github.com/whatsahearrt
 
 ${\space}$
 
-${\color{#596984} Thankchuu \space \space}$
+
+<details>
+<summary>${\color{#596984} Thankchuu \space \space}$</summary>
 
 ${\color{#e0b577}}$ [title-town](https://github.com/title-town
 )
@@ -24,3 +26,22 @@ ${\color{#e0b577}}$ [pony achievements (ty Jackie)](https://github.com/ponychiev
 )
 ${\color{#e0b577}}$ [pt-heavyfictkin](https://github.com/pt-heavyfictkin
 )
+
+</details>
+
+
+
+
+
+
+${\color{#726675} rmking \space again \space wip. }$
+
+<table>
+<tr>
+<td align="center" width="400">  <a href="https://github.com/whatsahearrt">
+<img src="https://github.com/user-attachments/assets/03406d96-6664-4dd7-83bd-b9777202f9ca" width="400" height="399" alt="image-removebg-preview (1)" />
+</tr>
+<tr>
+<td align="center">${\color{#959d74} ۶ৎ \space 𝖒𝖆𝖎𝖓 \space ۶ৎ}$</td>
+</tr>
+</table>
