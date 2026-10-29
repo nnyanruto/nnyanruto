@@ -6,7 +6,9 @@
 <table>
 <tr>
   <tr>
-<td align="center">${\color{#a3b0c7} ・ \space }$ ${\color{#a3b0c7} ・ \space }$ ${\color{#7c8faf} ・ \space }$ ${\color{#596984} ・ \space}$ ${\color{#d2d9e4} 𝖒𝖆𝖎𝖓 }$ ${\color{#a3b0c7} ・ \space }$ ${\color{#a3b0c7} ・ \space }$ ${\color{#7c8faf} ・ \space }$ ${\color{#596984} ・ \space }$</td>
+<td align="center">
+  ${\color{#a3b0c7} ・ \space }$ 
+  ${\color{#a3b0c7} ・ \space }$ ${\color{#7c8faf} ・ \space }$ ${\color{#596984} ・ \space}$ ${\color{#d2d9e4} 𝖒𝖆𝖎𝖓 }$ ${\color{#a3b0c7} ・ \space }$ ${\color{#a3b0c7} ・ \space }$ ${\color{#7c8faf} ・ \space }$ ${\color{#596984} ・ \space }$</td>
 </tr>
 <td align="center" width="400">  <a href="https://github.com/whatsahearrt">
 <img width="824" height="638" alt="nsmwmike1" src="https://github.com/user-attachments/assets/73c78c0b-5684-4cfd-87a8-e0bc02ac81da" />
