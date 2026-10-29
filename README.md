@@ -8,9 +8,11 @@
   <tr>
 <td align="center">
   
-  ${\color{#7c8faf} ・ \space }$
-  
-  ${\color{#596984} ・ \space}$ 
+   ${\color{#596984} ・ \space}$
+   ${\color{#596984} ・ \space}$
+   
+   ${\color{#7c8faf} ・ \space }$
+   ${\color{#7c8faf} ・ \space }$
 
    ${\color{#a3b0c7} ・ \space }$ 
    ${\color{#a3b0c7} ・ \space }$ 
@@ -21,7 +23,9 @@
   ${\color{#a3b0c7} ・ \space }$ 
   
   ${\color{#7c8faf} ・ \space }$
-  
+  ${\color{#7c8faf} ・ \space }$
+     
+  ${\color{#596984} ・ \space}$   
   ${\color{#596984} ・ \space }$</td>
 </tr>
 <td align="center" width="400">  <a href="https://github.com/whatsahearrt">
