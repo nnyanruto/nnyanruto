@@ -5,12 +5,18 @@ ${\space}$
 ![fans](https://img.shields.io/badge/fans-6767676767676767676700-596984)
 
 
-${\color{#e0b577}}$ [main](https://github.com/whatsahearrt
-)
-
-<img width="824" height="638" alt="nsmwmike1" src="https://github.com/user-attachments/assets/73c78c0b-5684-4cfd-87a8-e0bc02ac81da" />
-
 ${\space}$
+
+
+<table>
+<tr>
+<td align="center" width="400">  <a href="https://github.com/whatsahearrt">
+<img width="824" height="638" alt="nsmwmike1" src="https://github.com/user-attachments/assets/73c78c0b-5684-4cfd-87a8-e0bc02ac81da" />
+</tr>
+<tr>
+<td align="center">${\color{#959d74} ۶ৎ \space 𝖒𝖆𝖎𝖓 \space ۶ৎ}$</td>
+</tr>
+</table>
 
 
 <details>
@@ -28,17 +34,3 @@ ${\color{#e0b577}}$ [pt-heavyfictkin](https://github.com/pt-heavyfictkin
 )
 
 </details>
-
-
-
-
-
-<table>
-<tr>
-<td align="center" width="400">  <a href="https://github.com/whatsahearrt">
-<img width="824" height="638" alt="nsmwmike1" src="https://github.com/user-attachments/assets/73c78c0b-5684-4cfd-87a8-e0bc02ac81da" />
-</tr>
-<tr>
-<td align="center">${\color{#959d74} ۶ৎ \space 𝖒𝖆𝖎𝖓 \space ۶ৎ}$</td>
-</tr>
-</table>
