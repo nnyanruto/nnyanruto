@@ -33,13 +33,10 @@ ${\color{#e0b577}}$ [pt-heavyfictkin](https://github.com/pt-heavyfictkin
 
 
 
-
-${\color{#726675} rmking \space again \space wip. }$
-
 <table>
 <tr>
 <td align="center" width="400">  <a href="https://github.com/whatsahearrt">
-<img src="https://github.com/user-attachments/assets/03406d96-6664-4dd7-83bd-b9777202f9ca" width="400" height="399" alt="image-removebg-preview (1)" />
+<img width="824" height="638" alt="nsmwmike1" src="https://github.com/user-attachments/assets/73c78c0b-5684-4cfd-87a8-e0bc02ac81da" />
 </tr>
 <tr>
 <td align="center">${\color{#959d74} ۶ৎ \space 𝖒𝖆𝖎𝖓 \space ۶ৎ}$</td>
