@@ -5,9 +5,6 @@ ${\space}$
 ![fans](https://img.shields.io/badge/fans-6767676767676767676700-596984)
 
 
-${\space}$
-
-
 <table>
 <tr>
   <tr>
